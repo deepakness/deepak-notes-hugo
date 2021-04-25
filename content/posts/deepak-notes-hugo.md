@@ -1,5 +1,5 @@
 ---
-title: Deepak's Notes is now powered by Hugo
+title: 📢 Deepak's Notes is now powered by Hugo
 description: I have migrated this site from Jekyll to Hugo now.
 date: 2021-04-25
 tags: [tech]
