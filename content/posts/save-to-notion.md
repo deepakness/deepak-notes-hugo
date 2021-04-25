@@ -1,6 +1,7 @@
 ---
 date: 2021-02-04
 title: "Save to Notion Chrome Extension is the best"
+tags: [productivity, tech]
 ---
 
 Notion has a nice [web clipper](https://www.notion.so/web-clipper) but that is only good for saving articles as a page/sub-page.

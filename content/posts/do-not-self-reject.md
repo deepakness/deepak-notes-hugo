@@ -1,6 +1,7 @@
 ---
 date: 2021-01-07
 title: "Do not self-reject yourself"
+tags: [life]
 ---
 
 No matter what, do not self-reject yourself.

@@ -1,6 +1,7 @@
 ---
 date: 2021-04-14
 title: "Difference between rich and wealth"
+tags: [interesting]
 ---
 
 > Rich is measured in dollars. Wealth is measured in time.

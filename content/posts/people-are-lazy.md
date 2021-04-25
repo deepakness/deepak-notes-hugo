@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "People are lazy"
+tags: [life]
 ---
 
 We’re lazy. 😴

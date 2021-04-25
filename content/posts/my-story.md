@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "My story"
+tags: [life]
 ---
 
 I started writing 5 years ago.

@@ -1,6 +1,7 @@
 ---
 date: 2021-01-13
 title: "One page product landing pages (One pagers)"
+tags: [marketing]
 ---
 
 One page landing pages are considered to be the best because they communicate the data, insights, and beliefs. They do not talk about the detailed specifications.

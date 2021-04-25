@@ -1,6 +1,7 @@
 ---
 date: 2021-04-15
 title: "Story - How I got into business"
+tags: [business, life]
 ---
 
 From starting to write in 2015 to joining a startup in 2017 was one of the best things.

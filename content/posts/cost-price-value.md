@@ -1,6 +1,7 @@
 ---
 date: 2021-02-24
 title: "Cost - Price - Value"
+tags: [marketing, business]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zM2fB-Q8T7g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,7 @@
 ---
 date: 2021-01-10
 title: "Types of high performing content marketing ideas"
+tags: [marketing]
 ---
 
 1. eBooks

@@ -1,6 +1,7 @@
 ---
 date: 2021-01-11
 title: "How to get more app installs"
+tags: [marketing]
 ---
 
 - create the best app experience... because people who have already installed the app are going to play a key role in how other people see the app

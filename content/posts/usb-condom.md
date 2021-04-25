@@ -1,6 +1,7 @@
 ---
 date: 2021-03-27
 title: "USB Condom"
+tags: [tech]
 ---
 
 ## What is a USB Condom?

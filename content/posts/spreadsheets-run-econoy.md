@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "Spreadsheets run the world"
+tags: [business]
 ---
 
 Spreadsheets run the world!!! 🌍

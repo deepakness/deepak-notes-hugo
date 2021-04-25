@@ -1,6 +1,7 @@
 ---
 date: 2021-01-15
 title: "Public domain publishing"
+tags: [book]
 ---
 
 Taking old books (by others) and publising them on Kindle.

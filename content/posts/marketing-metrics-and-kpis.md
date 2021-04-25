@@ -1,6 +1,7 @@
 ---
 date: 2021-01-10
 title: "Marketing metrics and KPIs"
+tags: [marketing]
 ---
 
 - **What is marketing metrics?**

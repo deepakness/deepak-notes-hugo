@@ -1,6 +1,7 @@
 ---
 date: 2021-02-26
 title: "Why write?"
+tags: [life]
 ---
 
 ## Obstacles to writing

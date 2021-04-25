@@ -1,6 +1,7 @@
 ---
 date: 2021-03-01
 title: "Elon Musk's 3 Marketing Lessons"
+tags: [marketing]
 ---
 
 ### #1. Test first, double down later

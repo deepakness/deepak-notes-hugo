@@ -1,6 +1,7 @@
 ---
 date: 2021-02-26
 title: "Landing pages that convert"
+tags: [tech, marketing]
 ---
 
 - **Title:** explain the value you provide

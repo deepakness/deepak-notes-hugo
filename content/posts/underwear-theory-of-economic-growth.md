@@ -1,6 +1,7 @@
 ---
 date: 2021-04-18
 title: "The underwear theory of economic growth"
+tags: [business]
 ---
 
 ## The Underwear theory

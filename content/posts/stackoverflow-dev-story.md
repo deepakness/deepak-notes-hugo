@@ -1,6 +1,7 @@
 ---
 date: 2021-01-27
 title: "StackOverflow Developer Story - Bye Bye Resume"
+tags: [business]
 ---
 
 ## Why Developer Story?

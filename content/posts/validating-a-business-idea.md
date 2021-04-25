@@ -1,6 +1,7 @@
 ---
 date: 2021-04-18
 title: "Validating a business idea"
+tags: [business]
 ---
 
 ### What is business idea validation?

@@ -1,6 +1,7 @@
 ---
 date: 2021-01-09
 title: "Loss aversion"
+tags: [interesting]
 ---
 
 The pain of a loss is almost twice as strong as the reward felt from a gain.

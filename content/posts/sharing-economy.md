@@ -1,6 +1,7 @@
 ---
 date: 2021-04-14
 title: "Sharing economy"
+tags: [business]
 ---
 
 Millennials have been reluctant to buy items such as cars, homes, music and luxury goods.

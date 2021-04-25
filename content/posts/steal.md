@@ -1,6 +1,7 @@
 ---
 date: 2021-01-19
 title: "Steal 🕵️"
+tags: [life, interesting]
 ---
 
 **Steal** from anywhere that resonates with inspiration or fuels your imagination.

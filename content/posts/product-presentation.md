@@ -1,6 +1,7 @@
 ---
 date: 2021-02-23
 title: "Tips for product presentations"
+tags: [business]
 ---
 
 - **Tell your customer’s story**

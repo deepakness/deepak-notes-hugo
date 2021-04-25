@@ -1,6 +1,7 @@
 ---
 date: 2021-02-22
 title: "Info product business model"
+tags: [business]
 ---
 
 An info product is an organized and detailed explanation of how something works. From PDFs to videos and webinars are the best examples of info products.

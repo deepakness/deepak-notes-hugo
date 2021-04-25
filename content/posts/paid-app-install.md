@@ -1,6 +1,7 @@
 ---
 date: 2021-01-12
 title: "App install campaigns"
+tags: [marketing]
 ---
 
 # Paid Ads

@@ -1,6 +1,7 @@
 ---
 date: 2021-04-14
 title: "The 1% rule"
+tags: [business]
 ---
 
 - Only 1% of employees get promotions

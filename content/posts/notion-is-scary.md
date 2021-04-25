@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "Notion is becoming scary!!!"
+tags: [productivity, tech]
 ---
 
 By not introducing the offline mode, Notion is becoming scary.

@@ -1,6 +1,7 @@
 ---
 date: 2021-02-12
 title: "Marketing - Basic Functions"
+tags: [marketing]
 ---
 
 Marketing has 2 basic functions:

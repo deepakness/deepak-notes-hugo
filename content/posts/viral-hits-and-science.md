@@ -1,6 +1,7 @@
 ---
 date: 2021-04-07
 title: "Viral hits are where art and science meet"
+tags: [marketing]
 ---
 
 **Viral hits are where art and science meet.**

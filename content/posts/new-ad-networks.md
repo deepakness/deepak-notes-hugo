@@ -1,6 +1,7 @@
 ---
 date: 2021-01-12
 title: "New ad channels (Google & Fb alternatives)"
+tags: [marketing]
 ---
 
 - Average CPC in Google AdWords is $2.69 across all industries.

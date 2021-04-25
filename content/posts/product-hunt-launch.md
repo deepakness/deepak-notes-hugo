@@ -1,6 +1,7 @@
 ---
 date: 2021-01-18
 title: "Product Hunt launch guide"
+tags: [marketing]
 ---
 
 Product Hunt puts your product in front of all kinds of tech enthusiasts and influencers.

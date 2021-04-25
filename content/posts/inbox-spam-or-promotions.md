@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "Where do your emails land?"
+tags: [tech]
 ---
 
 Recently, I discovered a tool which lets you know exactly where do your emails land - inbox, spam/junk or promotions.

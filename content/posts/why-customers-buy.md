@@ -1,6 +1,7 @@
 ---
 date: 2021-02-12
 title: "Why do Customers Really Buy? ⭐"
+tags: [marketing, business]
 ---
 
 - We're drowning in customers' data but it doesn't tell us why do people buy

@@ -1,6 +1,7 @@
 ---
 date: 2021-01-11
 title: "Define Your Target Audience [Questions]"
+tags: [marketing]
 ---
 
 **Personal Demographics**

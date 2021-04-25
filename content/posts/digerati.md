@@ -1,6 +1,7 @@
 ---
 date: 2021-02-05
 title: "Digerati 💻"
+tags: [tech, business]
 ---
 
 > **Digerati** (or, digirati) is a [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) derived from "digital" + "literati".

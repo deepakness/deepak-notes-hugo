@@ -1,6 +1,7 @@
 ---
 date: 2021-02-07
 title: "LinkedIn Growth Engine"
+tags: [marketing]
 ---
 
 Raw Notes from GrowthHackers article "LinkedIn Growth Engine: The Never Ending Viral Loop":

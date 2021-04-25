@@ -1,6 +1,7 @@
 ---
 date: 2021-04-20
 title: "Interesting quotes that I love"
+tags: [quote]
 ---
 
 > Either write something worth reading or do something worth writing. - **Benjamin Franklin**

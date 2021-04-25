@@ -1,6 +1,7 @@
 ---
 date: 2021-01-09
 title: "Important marketing stages"
+tags: [marketing]
 ---
 
 1. **Discovery**

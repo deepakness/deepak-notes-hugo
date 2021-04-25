@@ -1,6 +1,7 @@
 ---
 date: 2021-02-20
 title: "Why People Share"
+tags: [business]
 ---
 
 Understanding the psychology of why people share is one of the keys to unlocking growth.

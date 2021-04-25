@@ -1,6 +1,7 @@
 ---
 date: 2021-01-10
 title: "Social media marketing psychological studies"
+tags: [marketing]
 ---
 
 ## the Endowment effect

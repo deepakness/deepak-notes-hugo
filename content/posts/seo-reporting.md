@@ -1,6 +1,7 @@
 ---
 date: 2021-02-03
 title: "SEO Reporting 📃"
+tags: [marketing, tech]
 ---
 
 Most of the clients ask for monthly SEO reports, and it's really not that difficult.

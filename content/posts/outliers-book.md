@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "Success is NOT just a coincidence"
+tags: [book, life]
 ---
 
 👉 "The Beatles" played music for 8+ hours every night on stage for 270 nights in 1 year (during 1961-62).

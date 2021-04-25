@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "Whom should you be grateful to?"
+tags: [life]
 ---
 
 Whom should you be grateful to? 🙋‍♂️

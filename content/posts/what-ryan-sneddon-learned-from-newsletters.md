@@ -1,6 +1,7 @@
 ---
 date: 2021-04-22
 title: "Ryan Sneddon learning from 205 newsletters in 2020"
+tags: [marketing, business]
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wrote 205 newsletters in 2020 and will write 160+ this year. Here are the best things I&#39;ve learned (updated)<br><br>1. Brevity is king. Still<br><br>2. Read great newsletters and steal what you like<br><br>3. Make realistic but big growth targets</p>&mdash; Ryan Sneddon🍦 (@sneddymobbin) <a href="https://twitter.com/sneddymobbin/status/1377779137620942849?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

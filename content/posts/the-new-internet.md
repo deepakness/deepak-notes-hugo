@@ -1,6 +1,7 @@
 ---
 date: 2021-02-05
 title: "The New Internet"
+tags: [tech]
 ---
 
 According to Seth Godin;

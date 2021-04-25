@@ -1,6 +1,7 @@
 ---
 date: 2021-02-06
 title: "Marketing definition"
+tags: [marketing]
 ---
 
 **According to the [American Marketing Association](https://www.ama.org/the-definition-of-marketing-what-is-marketing/);**

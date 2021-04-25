@@ -1,6 +1,7 @@
 ---
 date: 2021-01-17
 title: "Weird Businesses Series"
+tags: [business]
 ---
 
 ### #WeirdBusinessesSeries #1

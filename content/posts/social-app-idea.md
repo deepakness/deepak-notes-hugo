@@ -1,6 +1,7 @@
 ---
 date: 2021-01-05
 title: "A social app idea"
+tags: [idea]
 ---
 
 I wish there was an app where I could follow all the social accounts of a person in a single place.
