@@ -1,0 +1,50 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Deepak's Notes"
+theme="archie"
+copyright = "© Deepak"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=50 # articles per page
+
+[params]
+	mode="dark" # color-mode → light,dark or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "👋 Yo! I'm Deepak. Here, I take raw notes on business, marketing, blogging, technology and more. [Know more](https://deepakness.com/) about me."
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/deepakness"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/DeepakNesss/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
