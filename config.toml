@@ -1,4 +1,4 @@
-baseURL = "https://notes.deepakness.com"
+baseURL = "https://notes.deepakness.com/"
 languageCode = "en-us"
 title = "Deepak's Notes"
 theme="archie"
