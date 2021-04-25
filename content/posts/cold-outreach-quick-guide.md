@@ -1,6 +1,7 @@
 ---
 date: 2021-02-26
 title: "How to do cold outreach (Shaan Puri)"
+tags: [tech, marketing]
 ---
 
 ## Lessons

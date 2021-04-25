@@ -1,6 +1,7 @@
 ---
 date: 2021-01-08
 title: "Blogging requires real work"
+tags: [blogging]
 ---
 
 Blogging tests your patience and determination.

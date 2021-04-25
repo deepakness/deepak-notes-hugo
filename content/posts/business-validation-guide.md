@@ -1,6 +1,7 @@
 ---
 date: 2021-04-15
 title: "Business validation guide"
+tags: [business]
 ---
 
 ## What is validation?

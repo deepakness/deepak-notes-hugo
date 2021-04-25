@@ -1,6 +1,7 @@
 ---
 title: "Automated Notion backups"
 date: 2021-01-06
+tags: [tech]
 ---
 
 Yesterday, Notion was down for hours and it got me searching for available automated backup options.

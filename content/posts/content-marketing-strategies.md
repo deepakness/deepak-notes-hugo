@@ -1,6 +1,7 @@
 ---
 date: 2021-01-25
 title: "Tech unicorns' Content Marketing strategies"
+tags: [marketing]
 ---
 
 Create #NextLevel contents on almost every possible questions/queries that your users might have.

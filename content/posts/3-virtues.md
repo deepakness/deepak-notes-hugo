@@ -1,6 +1,7 @@
 ---
 title: "3 great virtues of a programmer"
 date: 2021-04-25
+tags: [tech]
 ---
 
 According to Larry Wall (author of the Perl programming language), there are three great virtues of a programmer:
