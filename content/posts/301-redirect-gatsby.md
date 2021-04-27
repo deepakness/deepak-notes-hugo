@@ -1,7 +1,7 @@
 ---
 title: Adding 301 redirects in Gatsby hosted on Netlify
-description: Use Netlify redirects method to add 301 redirects in Gatsby
-date: 2021-04-28
+description: Use Netlify's _redirects method to add 301 redirects in Gatsby
+date: 2021-04-27
 tags: [tech]
 ---
 
