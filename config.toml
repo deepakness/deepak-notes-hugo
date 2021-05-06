@@ -11,7 +11,7 @@ pygmentscodefencesguesssyntax = true
 paginate=50 # articles per page
 
 [params]
-	mode="auto" # color-mode → light,dark or auto
+	mode="dark" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "👋 Yo! I'm Deepak. Here, I take raw notes on business, marketing, blogging, technology and more. [Know more](https://deepakness.com/) about me."
 
