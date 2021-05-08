@@ -9,4 +9,4 @@ Google algorithm updates are complex computer programs that aim to deliver the b
 
 Here's a complete list of all the major Google algo updates.
 
-**⚡ [Check the list](https://compile.blog/google-algorithm-updates/)**
+**🔗 [Check the list](https://compile.blog/google-algorithm-updates/)**
