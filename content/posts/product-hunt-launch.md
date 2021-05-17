@@ -6,6 +6,8 @@ tags: [marketing]
 
 Product Hunt puts your product in front of all kinds of tech enthusiasts and influencers.
 
+**👉 Related:** [deleted Product Hunt Products](https://100.exposed/product-hunt-deleted-projects/)
+
 ## How to launch
 
 ### Before launch

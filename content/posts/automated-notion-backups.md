@@ -13,3 +13,5 @@ It explains how to setup automatic regular backup of your entire Notion account 
 After experimenting a bit, I was able to successfully set up the automation.
 
 And, it's working perfectly. 😍
+
+**👉 Related:** [List of Tools that are created using Notion API](https://100.exposed/notion-api-tools/)
