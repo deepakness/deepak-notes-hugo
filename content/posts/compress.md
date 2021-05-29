@@ -1,7 +1,7 @@
 ---
 title: Expression is Compression
 description: My notes on David Perell's essay Expression is Compression
-date: 2021-07-29
+date: 2021-05-29
 tags: [interesting]
 ---
 
