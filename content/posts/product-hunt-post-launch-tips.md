@@ -2,7 +2,7 @@
 title: Product Hunt Post Launch Tips
 description: 20+ strategies to follow after you launch on the Product Hunt
 date: 2021-06-08T15:49:23+05:30
-tags: [marketing, Product Hunt]
+tags: [marketing]
 ---
 
 You need to create a buzz!!! 🐝 Just launching on the Product Hunt is not enough. You need to get people to upvote, engage, and comment on your launch page.
