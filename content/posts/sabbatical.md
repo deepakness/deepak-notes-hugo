@@ -1,5 +1,5 @@
 ---
-title: Learned New Word: Sabbatical
+title: Learned New Word - Sabbatical
 description: A sabbatical is a break from work.
 date: 2021-08-02T13:45:17+05:30
 tags: [interesting]
