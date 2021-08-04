@@ -1,7 +1,7 @@
 ---
 title: The Computers of the Future
 description: A prediction of how the future computers are going to be
-date: 2021-08-04T10:03:15+05:30
+date: 2021-08-04
 tags: [tech]
 ---
 
@@ -9,4 +9,4 @@ Future computers will require way less computing power as compared to the curren
 
 [Read the full story here](https://deepakness.com/blog/future-computers/)
 
-Also, let me know your thoughts [here](https://twitter.com/DeepakNesss/status/1413443131572330496).
+Also, let me know your thoughts [here](https://twitter.com/DeepakNesss/status/1413443131572330496)
