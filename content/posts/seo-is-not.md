@@ -1,6 +1,6 @@
 ---
 title: What SEO is Not
-description: Some misunderstanding about SEO
+description: Some misunderstandings about SEO
 date: 2021-08-11T08:32:00+05:30
 tags: [marketing]
 ---
