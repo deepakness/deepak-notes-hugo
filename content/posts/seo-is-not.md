@@ -13,7 +13,7 @@ Here's are some things that SEO is not:
 - keyword stuffing articles can't help you win at the SEO game
 - publishing more and more content won't help you rank higher
 - SEO is not just about optimizing to rank on Google
-- SEO is not the only solution to your[ content distribution strategy](https://compile.blog/blog-post-repurposing/)
+- SEO is not the only solution to your [content distribution strategy](https://compile.blog/blog-post-repurposing/)
 - SEO is not paid advertising
 - SEO is not a quick fix game, it takes months
 - SEO is not dead and it's not going to be dead in the near future
