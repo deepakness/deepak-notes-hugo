@@ -7,10 +7,10 @@ tags: [interesting, word]
 
 ## Reminiscence (संस्मरण, स्मृति, स्मरण, याद, सुध)
 
-- a story told about a past event remembered by the narrator, the enjoyable recollection of past events, a collection in literary form of incidents that someone remembers
+- **a story told about a past event remembered by the narrator, the enjoyable recollection of past events, a collection in literary form of incidents that someone remembers**
 
 Example: He naratted his reminiscences of his early days in Parliament.
 
-- a characteristic of one thing that is suggestive of another
+- **a characteristic of one thing that is suggestive of another**
 
 Example: His first works are too full of reminiscences of earlier poetry.
