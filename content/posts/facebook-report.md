@@ -7,6 +7,6 @@ tags: [tech]
 
 Take a look at the Facebook's widely viewed content report for 2021 2nd quarter.
 
-:loudspeaker: [Facebook Widely Viewed Content Report](https://transparency.fb.com/data/widely-viewed-content-report/)
+📢 [Facebook Widely Viewed Content Report](https://transparency.fb.com/data/widely-viewed-content-report/)
 
 It's a total worth taking a look at. There are some really interesting stuff hidden there.
