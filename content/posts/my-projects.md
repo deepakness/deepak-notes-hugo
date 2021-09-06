@@ -7,7 +7,7 @@ tags: [business]
 
 Today I published a list of all the noteworthy projects that I have ever worked on in the last 6 years. Of course, some are the failed ones and some are the successful ones.
 
-📢 Check the [list of my noteworthy projects](https://deepakness.com/blog/my-projects/)
+**📢 Check the [list of my noteworthy projects](https://deepakness.com/blog/my-projects/)**
 
 I have tens of other projects that were either very small or so silly that I don't even remember.
 
