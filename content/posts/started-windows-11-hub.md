@@ -1,5 +1,5 @@
 ---
-title: 📢 Started Windows 11 Hub
+title: 📢 My New Windows 11 Hub
 description: I have started a brand new Windows 11 hub where there will be How-tos, guides, and troubleshooting related to Windows 11
 date: 2021-09-20T13:07:15+05:30
 tags: [tech, interesting]
