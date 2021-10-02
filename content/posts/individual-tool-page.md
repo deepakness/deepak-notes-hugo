@@ -11,7 +11,7 @@ As I announced earlier that I have created a [tools hub](https://notes.deepaknes
 
 Here's how it looks: 👇
 
-![individual tool page in compile.blog](https://i.imgur.com/f1BEzxB.png)
+![individual tool page in compile-blog](/individual-tool-page.png)
 
 I have put together a short description and some awesome features along with important highlights and other 3rd party resources.
 
