@@ -11,6 +11,10 @@ But that's not the case anymore. I am a bit stable now. I think, I have found my
 
 🎯 [Here's the tools hub that I have created](https://compile.blog/tools/)
 
+And, here's how the page looks: 👇
+
+![Look of the tools hub page on compile.blog](/images/tools-hub.png)
+
 Currently, it's just a collection of tools that I have personally used but later, in the future, I will be adding a description for all the tools -- how it can be used for the better outcome and all.
 
 I have also created an [individual tool page](https://notes.deepakness.com/posts/individual-tool-page/) for all the tools mentioned on the hub.
