@@ -11,4 +11,8 @@ Recently, I have been thinking about starting a blog dedicated completely to the
 - guides about how to make the most out of a tool
 - time management, etc.
 
+Here's how it will look, somehow:
+
+![Review of a Productivity Tool](/images/review-12.png)
+
 Let's see how it goes.
