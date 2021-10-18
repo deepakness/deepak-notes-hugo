@@ -1,5 +1,6 @@
 ---
 title: Egalitarianism
+description: Definition of the term "egalitarianism"
 date: 2021-10-18
 tags: [interesting]
 ---
