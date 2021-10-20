@@ -155,3 +155,6 @@ All the keyboard shortcuts here are taken from [MakeUseOf](https://www.makeuseof
 | Alt + Shift + M                  | Open Files app                                                 |
 
 You can find [more Chromebook keyboard shortcuts on this page](https://support.google.com/chromebook/answer/183101?hl=en).
+
+
+Also, [click here to download the PDF version](/docs/chromebook-keyboard-shortcuts.md) of the above Chromebook keyboard shortcuts.
