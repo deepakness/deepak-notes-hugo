@@ -7,6 +7,8 @@ tags: [tech, writing]
 
 I have collected a detailed list of types of content from [First Site Guide](https://firstsiteguide.com/types-of-content/) that you can create for your audience.
 
+You can also download the [PDF version of the list](/docs/content-types.pdf).
+
 - Ads
 - Articles
 - Audio posts
