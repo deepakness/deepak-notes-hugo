@@ -1,0 +1,118 @@
+---
+title: Types of Content to Create
+description: Followings are the types of content that can be created
+date: 2021-10-23T21:53:41+05:30
+tags: [tech, writing]
+---
+
+I have collected a detailed list of types of content from [First Site Guide](https://firstsiteguide.com/types-of-content/) that you can create for your audience.
+
+- Ads
+- Articles
+- Audio posts
+- Audiobooks
+- Best awards
+- Best practice
+- Blog posts
+- Book reviews
+- Browser extensions
+- Calculators
+- Case studies
+- Chat rooms
+- Cheat sheets
+- Checklists
+- Collaborations
+- Comics and cartoons
+- Comments
+- Company news
+- Comparisons
+- Competitions
+- Converters
+- Cost sheet
+- Countdowns
+- Courses
+- Daily shows
+- Data collecting
+- Data visualization
+- Demonstrations
+- Diagrams
+- Disclaimers
+- eBooks
+- Email campaign
+- Fan page
+- FAQs
+- Feature pages
+- Forums
+- Free resources
+- Free tools
+- Funny stories
+- GIFs
+- Giveaways
+- Glossary
+- Guest posts
+- Guides
+- How to
+- How to avoid failure
+- Illustrations
+- Income reports
+- Industry news
+- Infographics
+- Inspirational messages
+- Interesting facts
+- Interviews
+- Landing pages
+- Lists
+- Literary works
+- Live videos
+- Maps
+- Media mentions
+- Memes
+- Metaphors
+- Micro videos
+- Microblog posts
+- Mobile Apps
+- Music videos
+- Newsletters
+- Offline magazines
+- Online events
+- Online games
+- Online magazine
+- Personal bios
+- Personal stories
+- Photography
+- Plugins
+- Podcasts
+- Polls
+- Posters
+- Predictions
+- Presentations
+- Product announcements
+- Product reviews
+- Promo-sites
+- Promoted post
+- PSA
+- Q & A
+- QR codes
+- Quizzes
+- Quotes
+- Recipes
+- Research
+- Roundups
+- Scheduled events
+- Screenshots
+- SlideShares
+- Social network buttons
+- Success stories
+- Surveys
+- Swag
+- Templates
+- Testimonials
+- Transparency
+- User generated content
+- Versus articles
+- Vlog
+- Webinars
+- White papers
+- Wikis
+
+[Source](https://firstsiteguide.com/types-of-content/)
