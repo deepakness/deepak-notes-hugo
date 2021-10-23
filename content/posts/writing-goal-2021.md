@@ -1,5 +1,5 @@
 ---
-title: My Writing Goal for 2021
+title: 📢 My Writing Goal for 2021
 description: Yes, I have some goals to achieve this year 😅
 date: 2021-10-23T19:38:30+05:30
 tags: [writing]
