@@ -11,7 +11,7 @@ But... Google Search Operators are the answer. If you can do it right, you can f
 
 ## Interesting Google Search Operators
 
-Please note that most of the time, it doesn't matter if you're putting these Google search operators at the beginning or end of a search query.
+Enjoy some interesting operators:
 
 ### 1. cache
 
@@ -132,5 +132,7 @@ Here're some examples:
 ```
 "NFT" AND ("whitepaper" OR "white paper" OR "research paper" OR "research" OR "ebook") AND filetype:PDF
 ```
+
+📢 Please note that most of the time, it doesn't matter if you're putting these Google search operators at the beginning or end of a search query.
 
 You get the idea, right?
