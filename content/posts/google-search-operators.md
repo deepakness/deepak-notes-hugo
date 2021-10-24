@@ -5,7 +5,7 @@ date: 2021-10-24T18:47:16+05:30
 tags: [tech, interesting]
 ---
 
-Sometimes, finding what you really need on Google is difficult. It shows the search results that are the most relevant but still may not fulfil your requirements.
+Sometimes, [finding what you really need on Google is difficult](https://deepakness.com/blog/google-search-hack/). It shows the search results that are the most relevant but still may not fulfil your requirements.
 
 But... Google Search Operators are the answer. If you can do it right, you can find almost anything that has been indexed by Google.
 
