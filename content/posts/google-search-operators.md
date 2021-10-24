@@ -34,7 +34,7 @@ Putting your search terms in quotes helps you perform an exact-match search on G
 Or,
  
 ```
-export standard notes
+"export standard notes"
 ```
  
 ### 3. OR
