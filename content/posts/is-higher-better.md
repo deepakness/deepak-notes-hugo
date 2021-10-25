@@ -1,6 +1,6 @@
 ---
 title: Is Higher Always Better?
-description: Instictively, why do I always think that higher is better?
+description: Instinctively, why do I always think that higher is better?
 date: 2021-10-25T20:50:29+05:30
 tags: [writing, interesting]
 ---
