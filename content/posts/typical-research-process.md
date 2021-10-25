@@ -10,3 +10,7 @@ Multiple tabs in the browser and a note-taking app -- this is how the typical re
 ![My typical research process](/images/typical-research-process.png)
 
 Sometimes, it's even more messy than this.
+
+And yes, it's my [new Chrombook](https://deepakness.com/blog/new-chromebook/) that you're seeing in the screenshot above.
+
+🤩
