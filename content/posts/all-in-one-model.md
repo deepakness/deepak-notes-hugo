@@ -13,4 +13,4 @@ So, is this "all-in-one" model an effective strategy to beat your competitors?
 
 The answer is yes, it's doable. The way Notion carried out itself is amazing.
 
-You too can do it... if you can avoid burning all your resources chasing those established competitors this way. Otherwise, other competition-fighting-strategies are always there to look out to.
+You too can do it... if you can avoid burning all your resources chasing those established competitors this way. Otherwise, other competition-fighting-strategies are always there to look up to.
