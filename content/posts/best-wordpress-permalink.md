@@ -23,4 +23,6 @@ But why? Why would I do that?
 
 Well, the default category pages can't be customized enough. You cannot add much information on the page. But when all the category pages are redirected to their respective pages, those are better for adding extra information.
 
+This setup is also helpful to create relevant topic clusters for better search engine rankings.
+
 Currently, I haven't applied it anywhere but I think it'll work, for sure.
