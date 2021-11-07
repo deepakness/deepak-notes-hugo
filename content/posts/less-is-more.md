@@ -5,7 +5,7 @@ date: 2021-11-07T08:58:21+05:30
 tags: [interesting]
 ---
 
-People like compression!
+People like things compressed!
 
 In fact, David Perell, in the [expression is compression](https://perell.com/essay/expression-is-compression/) essay, says that:
 
